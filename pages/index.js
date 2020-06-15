@@ -4,6 +4,7 @@ const Home = () => (
   <div className="container">
     <Head>
       <title>Create Next App</title>
+      <meta name="title" content="Nextjs App" />
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
